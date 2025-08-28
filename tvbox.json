@@ -1,0 +1,217 @@
+{
+  "spider": "",
+  "lives": [],
+  "sites": [
+    {
+      "key": "饭太硬",
+      "name": "饭太硬影视源",
+      "type": 1,
+      "api": "http://饭太硬.top/tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "detail": "稳定高清资源",
+        "可用性": "需特殊网络访问",
+        "加载速度": "快速"
+      }
+    },
+    {
+      "key": "菜妮丝",
+      "name": "菜妮丝资源",
+      "type": 1,
+      "api": "https://tvbox.cainisi.cf",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "detail": "多线路支持",
+        "可用性": "直接访问",
+        "加载速度": "快速"
+      }
+    },
+    {
+      "key": "元兴",
+      "name": "元兴仓库",
+      "type": 1,
+      "api": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "detail": "持续更新接口",
+        "可用性": "直接访问",
+        "加载速度": "中等"
+      }
+    },
+    {
+      "key": "GYTV多仓",
+      "name": "GYTV聚合源",
+      "type": 1,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "detail": "多CDN加速",
+        "可用性": "全球访问",
+        "加载速度": "极快"
+      }
+    },
+    {
+      "key": "香雅情仓库",
+      "name": "XYQ资源",
+      "type": 1,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "detail": "高清影视库",
+        "可用性": "稳定",
+        "加载速度": "快速"
+      }
+    },
+    {
+      "key": "月光宝盒",
+      "name": "月光影视",
+      "type": 1,
+      "api": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "detail": "多平台支持",
+        "可用性": "间歇性维护",
+        "加载速度": "中等"
+      }
+    },
+    {
+      "key": "Alist多仓",
+      "name": "Alist聚合",
+      "type": 1,
+      "api": "https://al.gy.workers.dev/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "detail": "分布式资源",
+        "可用性": "稳定",
+        "加载速度": "快速"
+      }
+    },
+    {
+      "key": "4K源",
+      "name": "4K影视源",
+      "type": 1,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "detail": "超清资源专线",
+        "可用性": "直接访问",
+        "加载速度": "极快"
+      }
+    },
+    {
+      "key": "dyttzy",
+      "name": "电影天堂资源",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "detail": "http://caiji.dyttzyapi.com"
+      }
+    },
+    {
+      "key": "ruyi",
+      "name": "如意资源",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "heimuer",
+      "name": "黑木耳",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "detail": "https://heimuer.tv"
+      }
+    },
+    {
+      "key": "bfzy",
+      "name": "暴风资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fanty",
+      "name": "饭太硬线路",
+      "type": 1,
+      "api": "http://www.饭太硬.com/tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "detail": "带玩偶哥哥4K资源"
+      }
+    },
+    {
+      "key": "feimao",
+      "name": "肥猫线路",
+      "type": 1,
+      "api": "http://肥猫.com/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "moyu",
+      "name": "摸鱼4K线路",
+      "type": 1,
+      "api": "http://我不是.摸鱼儿.top",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ouge",
+      "name": "欧歌单线路",
+      "type": 1,
+      "api": "http://tv.nxog.top/m/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lizhi",
+      "name": "荔枝线路",
+      "type": 1,
+      "api": "https://原子弹.com/lz",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xiaobei",
+      "name": "小北线路",
+      "type": 1,
+      "api": "http://小白.love",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
