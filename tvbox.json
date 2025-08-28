@@ -1,186 +1,184 @@
 {
   "sites": [
     {
-      "key": "肥猫",
-      "name": "肥猫源",
+      "key": "巧技",
+      "name": "🐱 巧技源",
       "type": 1,
-      "api": "http://我不是.肥猫.love:63",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "饭太硬",
-      "name": "饭太硬影视源",
-      "type": 1,
-      "api": "http://饭太硬.top/tv",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/XYQ/json/巧技.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "detail": "稳定高清资源",
-        "可用性": "需特殊网络访问",
-        "加载速度": "快速"
-      }
+      "ext": "高清、速度快、聚合多个高质量线路"
+    },
+    {
+      "key": "FongMi",
+      "name": "�️ FongMi影视",
+      "type": 1,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/release/json/default.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "官方维护，稳定可靠"
+    },
+    {
+      "key": "肥猫",
+      "name": "😺 肥猫Punycode",
+      "type": 1,
+      "api": "http://xn--6qqa49a5vba.xn--uisx3y.love:63",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "已转换中文域名，可直接访问"
     },
     {
       "key": "菜妮丝",
-      "name": "菜妮丝资源",
+      "name": "🌐 菜妮丝",
       "type": 1,
       "api": "https://tvbox.cainisi.cf",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "detail": "多线路支持",
-        "可用性": "直接访问",
-        "加载速度": "快速"
-      }
+      "ext": "多线路支持，直连速度快"
+    },
+    {
+      "key": "唐三",
+      "name": "💎 唐三仓库",
+      "type": 1,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/XYQ/json/唐三.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "资源丰富，更新及时"
+    },
+    {
+      "key": "骚零",
+      "name": "🚀 骚零资源",
+      "type": 1,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/XYQ/json/骚零.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "速度极快，专线优化"
+    },
+    {
+      "key": "猪蹄",
+      "name": "🐷 猪蹄速享版",
+      "type": 1,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/XYQ/json/猪蹄速享版.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "精简速享，无广告"
+    },
+    {
+      "key": "神器",
+      "name": "🔮 神器天下",
+      "type": 1,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/XYQ/json/神器.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "老牌稳定源，线路多"
+    },
+    {
+      "key": "香雅情",
+      "name": "🌸 香雅情",
+      "type": 1,
+      "api": "https://fastly.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "纯净无广告，体验佳"
+    },
+    {
+      "key": "月光",
+      "name": "🌙 月光宝盒",
+      "type": 1,
+      "api": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "开源维护，稳定"
+    },
+    {
+      "key": "运输车",
+      "name": "🚚 运输车多仓",
+      "type": 1,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/XYQ/json/运输车.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "大型仓库，源非常多"
     },
     {
       "key": "元兴",
-      "name": "元兴仓库",
+      "name": "📦 元兴仓库",
       "type": 1,
       "api": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "detail": "持续更新接口",
-        "可用性": "直接访问",
-        "加载速度": "中等"
-      }
+      "ext": "持续更新接口"
     },
     {
-      "key": "GYTV多仓",
-      "name": "GYTV聚合源",
+      "key": "饭太硬",
+      "name": "🍚 饭太硬Punycode",
       "type": 1,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "api": "http://xn--fhry00c.top/tv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "detail": "多CDN加速",
-        "可用性": "全球访问",
-        "加载速度": "极快"
-      }
+      "ext": "已转换域名，需特殊网络访问"
     },
     {
-      "key": "香雅情",
-      "name": "香雅情",
+      "key": "云星",
+      "name": "⭐ 云星日记",
       "type": 1,
-      "api": "https://fastly.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json",
+      "api": "https://maoyingshi.cc/可视TV/云星日记/1.m3u8",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "个人维护，质量高"
     },
     {
-      "key": "月光宝盒",
-      "name": "月光影视",
+      "key": "BDPQ",
+      "name": "🌀 BDPQ仓库",
       "type": 1,
-      "api": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/XYQ/json/bdpq.json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "综合性仓库，备用选择"
     },
     {
-      "key": "Alist多仓",
-      "name": "Alist聚合",
+      "key": "奈飞",
+      "name": "N️ 奈飞影视",
       "type": 1,
-      "api": "https://al.gy.workers.dev/",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/XYQ/json/奈飞.json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "海外剧集丰富"
     },
     {
-      "key": "4K源",
-      "name": "4K影视源",
+      "key": "厂长",
+      "name": "🔧 厂长资源",
       "type": 1,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/XYQ/json/厂长.json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "老牌资源站"
     },
     {
-      "key": "dyttzy",
-      "name": "电影天堂资源",
+      "key": "Miao",
+      "name": "😼 MiaoBox",
       "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/XYQ/json/miao.json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ruyi",
-      "name": "如意资源",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "heimuer",
-      "name": "黑木耳",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "bfzy",
-      "name": "暴风资源",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "fanty",
-      "name": "饭太硬线路",
-      "type": 1,
-      "api": "http://www.饭太硬.com/tv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "moyu",
-      "name": "摸鱼4K线路",
-      "type": 1,
-      "api": "http://我不是.摸鱼儿.top",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ouge",
-      "name": "欧歌单线路",
-      "type": 1,
-      "api": "http://tv.nxog.top/m/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lizhi",
-      "name": "荔枝线路",
-      "type": 1,
-      "api": "https://原子弹.com/lz",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "xiaobei",
-      "name": "小北线路",
-      "type": 1,
-      "api": "http://小白.love",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "动漫资源丰富"
     }
   ]
 }
